@@ -51,5 +51,3 @@ https://raw.githubusercontent.com/IBM/telco-customer-churn-on-icp4d/master/data/
 # Purpose
 This project demonstrates how ensemble decision-tree methods can effectively
 predict churn and provide explainability through visual model interpretation.
-
-
